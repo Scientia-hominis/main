@@ -1,5 +1,9 @@
+# Obsidian Metadata
 .obsidian/workspace.json
 .obsidian/hotkeys.json
 .obsidian/appearance.json
 .obsidian/core-plugins-migration.json
 .obsidian/core-plugins.json
+
+# Completr Plugin
+.obsidian/plugins/obsidian-completr/scanned_words.txt
